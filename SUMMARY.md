@@ -8,4 +8,5 @@
 * [传感器检测之挡板](chuan-gan-qi.md)
 * [播放音乐](bo-fang-yin-le.md)
 * [语音对话](yu-yin-dui-hua.md)
+* [pepper一个人无聊的时候激活社会性表现](pepperyi-ge-ren-wu-liao-de-shi-hou-ji-huo-she-hui-xing-biao-xian.md)
 
